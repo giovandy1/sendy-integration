@@ -1,5 +1,6 @@
 # Changelog
-
+## About
+Plugin Subscribe dan Unsubscribe ke Sendy dengan AJAX, notifikasi, dan logging reason unsubscribe.
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
